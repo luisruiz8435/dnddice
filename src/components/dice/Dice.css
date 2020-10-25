@@ -1,0 +1,15 @@
+.diceimage {
+  display: block;
+  width: 4rem;
+  height: 4rem;
+  margin: auto;
+};
+
+.card {
+  max-width: 4rem;
+}
+
+.multiplier {
+  border: 1px solid #fff;
+  background-color: transparent;
+}
