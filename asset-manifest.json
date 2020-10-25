@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dnddice/static/css/main.6eed3f14.chunk.css",
+    "main.js": "/dnddice/static/js/main.e7bc3bfc.chunk.js",
+    "main.js.map": "/dnddice/static/js/main.e7bc3bfc.chunk.js.map",
+    "runtime-main.js": "/dnddice/static/js/runtime-main.19873289.js",
+    "runtime-main.js.map": "/dnddice/static/js/runtime-main.19873289.js.map",
+    "static/css/2.b97b5188.chunk.css": "/dnddice/static/css/2.b97b5188.chunk.css",
+    "static/js/2.9d398c32.chunk.js": "/dnddice/static/js/2.9d398c32.chunk.js",
+    "static/js/2.9d398c32.chunk.js.map": "/dnddice/static/js/2.9d398c32.chunk.js.map",
+    "index.html": "/dnddice/index.html",
+    "static/css/2.b97b5188.chunk.css.map": "/dnddice/static/css/2.b97b5188.chunk.css.map",
+    "static/css/main.6eed3f14.chunk.css.map": "/dnddice/static/css/main.6eed3f14.chunk.css.map",
+    "static/js/2.9d398c32.chunk.js.LICENSE.txt": "/dnddice/static/js/2.9d398c32.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dnddice/static/media/dicewallpaper.8bec84a4.jpg",
+    "static/media/dnd-dice-logo.51d9fbfe.png": "/dnddice/static/media/dnd-dice-logo.51d9fbfe.png",
+    "static/media/rollingdice.9aa69a80.gif": "/dnddice/static/media/rollingdice.9aa69a80.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19873289.js",
+    "static/css/2.b97b5188.chunk.css",
+    "static/js/2.9d398c32.chunk.js",
+    "static/css/main.6eed3f14.chunk.css",
+    "static/js/main.e7bc3bfc.chunk.js"
+  ]
+}
